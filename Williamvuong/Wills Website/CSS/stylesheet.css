@@ -1,0 +1,38 @@
+#header{
+
+	position:fixed;
+	background-color: #3B5998;
+	height:50px;
+	position:fixed;
+
+}
+
+#nav {
+	background-color:blue;
+	position: fixed;
+
+}
+
+
+li {
+	color:white;
+	display: inline;
+	padding:5px 5px 5px 5px;
+	float:left;
+
+}
+
+ul{
+
+text-decoration: none;
+
+}
+
+
+#friends{
+	position:absolute;
+
+
+
+
+}

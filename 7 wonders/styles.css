@@ -1,0 +1,44 @@
+body {
+	background-color: #EEE;
+	font-family:san-serif;
+
+
+}
+
+img {
+
+	width:200px;
+	height:200px;
+	margin:0 auto;
+	border:1px solid gray;
+	padding: 5px;
+	display:block;
+	background:#AAA;
+	border-radius:100%;
+
+}
+
+p{
+	line-height:1.5em;
+
+}
+
+h1{
+
+	text-align:center;
+}
+
+button:hover{
+
+background-color: light blue;
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+text-decoration: none;
+}
+
+li {
+	display:inline;
+	margin: 0 auto;
+	padding:5px;
+
+}
