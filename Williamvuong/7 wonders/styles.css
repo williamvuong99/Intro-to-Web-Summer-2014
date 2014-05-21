@@ -1,6 +1,6 @@
 body {
 	background-color: #EEE;
-	font-family:san-serif;
+	font-family:sans-serif;
 
 
 }
@@ -14,11 +14,11 @@ img {
 	padding: 5px;
 	display:block;
 	background:#AAA;
-	border-radius:100%;
+	border-radius:50%;
 
 }
 
-p{
+p {
 	line-height:1.5em;
 
 }
@@ -33,12 +33,19 @@ button:hover{
 background-color: light blue;
 border-top-left-radius: 5px;
 border-top-right-radius: 5px;
-text-decoration: none;
 }
 
 li {
 	display:inline;
 	margin: 0 auto;
 	padding:5px;
+
+}
+
+a {
+
+text-decoration: none;
+
+
 
 }
