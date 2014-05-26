@@ -1,0 +1,37 @@
+
+.box {
+background-color:#F0F;
+border: 10px dotted black ;
+height:50px;
+padding:20px;
+width:150px;
+margin:50px;
+border-radius:40px;
+
+
+}
+
+span {
+
+	background-color:red;
+}
+
+.nav a {
+	line-height: 50px;
+	background-color: green;
+	display:inline-block;
+
+}
+
+.container {
+	width:900px;
+	margin-left:auto; 
+	margin-right:auto;
+
+}
+
+.button {
+	line-height: 50px;
+	background-color: green;
+	display:inline-block;
+}
