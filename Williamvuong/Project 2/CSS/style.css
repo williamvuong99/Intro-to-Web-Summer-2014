@@ -1,0 +1,170 @@
+.btn-info {
+	display:inline;
+}
+
+.navbar-default  {
+    background-color: #0BB5FF;
+    border-color: #0BB5FF;
+    font-family: 'Quicksand', sans-serif;
+ }
+
+.dropdown-toggle{
+
+color:#FFF;
+
+}
+
+.navbar-brand {
+margin-top: -11px;
+}
+
+.navbar-default .navbar-brand {
+	color:white;
+
+}
+
+.btn-info{
+	background-color: #83F52C;
+
+}
+
+.navbar-default .navbar-nav>li>a {
+	color:white;
+	font-size: 20px;
+}
+
+
+.carousel-inner{
+  width:100%;
+  max-height: 600px !important;
+}
+
+h1 {
+
+font-family: 'Quicksand', sans-serif;
+
+}
+
+.Features .container-fluid .row .col-md-12 h1 {
+	text-align: center;
+	margin: 5px auto;
+}
+
+.features {
+	background-color: #edebe7;
+
+}
+
+p.battery{
+	font-size:15px;
+	padding-left: 110px;
+	padding:0 0 60px 100px;
+	line-height: 20px;
+	margin:50px 261px 0 261px;
+	height:90px;
+}
+
+.features p.battery {
+	background: url(http://www.mygokey.com/static/img/icon-battery.jpg) left top no-repeat;
+	float: left;
+	width:450px;
+	padding-right:70px;
+
+}
+
+p.locator{
+	font-size:15px;
+	padding-left: 75px;
+	padding:0 0 60px 100px;
+	line-height: 20px;
+	margin:50px 85px 0 85px;
+	height:90px;
+}
+
+.features p.locator {
+	background: url(http://www.mygokey.com/static/img/icon-cable.jpg) left top no-repeat;
+	float: left;
+	width:450px;
+	padding-right:70px;
+
+
+}
+
+p.cable{
+	font-size:15px;
+	padding-left: 75px;
+	padding:0 0 60px 100px;
+	line-height: 20px;
+	margin:50px 261px 0 261px;
+	height:90px;
+}
+
+.features p.cable {
+	background: url(http://www.mygokey.com/static/img/icon-locator.jpg) left top no-repeat;
+	float: left;
+	width:450px;
+	padding-right:70px;
+
+
+}
+
+p.memory{
+	font-size:15px;
+	padding-left: 75px;
+	padding:0px 0 60px 100px;
+	line-height: 20px;
+	margin:50px 85px 0 85px;
+	height:90px;
+}
+
+.features p.memory {
+	background: url(http://www.mygokey.com/static/img/icon-memory.jpg) left top no-repeat;
+	float: left;
+	width:450px;
+	padding-right:70px;
+
+
+}
+
+.row {
+	margin:60px;
+	background-color: #edebe7;
+
+}
+
+.panel-default>.panel-heading {
+	background-color: #0BB5FF;
+	border-color:white;
+	font-family: 'Quicksand', sans-serif;
+	color: white;
+}
+
+.panel-body {
+	background-color: #edebe7;
+
+}
+
+
+.panel-body img {
+	float:left;
+	width:350px;
+}
+
+.panel-body p {
+font-family: 'Quicksand', sans-serif;
+font-size: 15px;
+color:#0BB5FF;
+margin-left: 20px;
+} 
+
+h1 {text-align: center;}
+
+.container-fluid .about-us {
+	background-color: white;
+
+
+}
+
+iframe {
+    margin: 30px auto;
+    margin-left: 300px

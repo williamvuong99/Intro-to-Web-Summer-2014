@@ -1,0 +1,103 @@
+html, body {
+		margin:0;
+		height:100%;
+
+}
+
+.background {
+	background:url(http://media.culturemap.com/crop/90/2c/600x450/Rooftop-bar-at-Nora-Restaurant-in-Dallas_083417.jpg);
+	background-size:cover;
+	height:100%;
+
+}
+
+
+a{
+text-decoration: none;
+margin-top: 15px;
+color:white;
+
+}
+
+.nav {
+	background-color:#d40303;
+	width:100%;
+	height: 30px;
+
+}
+
+li {
+	display:inline;
+	height:40px;
+	color:white;
+	text-align: right;
+	margin:10px;
+	font-size:1.2em;
+	vertical-align: auto;
+
+}
+
+ul {
+	margin:0px;
+	text-align: right;
+	height:30px;
+
+}
+
+.home_logo.src {
+	position:relative;
+	width: 400px;
+	height:250px;
+	margin:0 auto;
+	left:548px;
+	top:125px;
+}
+
+.container_left {
+	float:left;
+	width:300px;
+	height:995px;
+	border:2px solid black;
+	margin:5px;
+	border-radius:5px;
+
+}
+
+table{
+	margin: 5px auto;
+
+
+}
+
+img.logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:300px;
+    height:175px;
+
+
+}
+
+.hours p {
+
+	margin: 5px;
+
+
+}
+
+td, th {
+
+border: 1px solid black;
+padding:.25em 1em;
+
+}
+
+iframe {
+display:block;
+margin:0 auto;
+
+
+}
+
+

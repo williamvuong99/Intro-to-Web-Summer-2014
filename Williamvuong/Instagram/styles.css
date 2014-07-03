@@ -1,0 +1,12 @@
+.photo {
+	display:block;
+}
+
+.photo img {
+	max-width: 300px;
+}
+
+img {
+	border: 5px solid black;
+	display:block;
+}

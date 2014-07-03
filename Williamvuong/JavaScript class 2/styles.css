@@ -1,0 +1,13 @@
+.photo {
+	display:block;
+}
+
+.photo img {
+	max-width: 300px;
+}
+
+img {
+	margin-bottom: 25px;
+	border: 10px solid black;
+	display:block;
+}

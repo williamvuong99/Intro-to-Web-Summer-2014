@@ -1,0 +1,25 @@
+body {
+	margin:0;
+}
+
+.header {
+
+width:100%;
+display:block;
+
+}
+
+li {
+	display:inline-block;
+	margin: 8px;
+}
+
+ul {
+
+	text-align: center;
+	background-color: #F8FF75;
+	margin:0;
+	padding: 0;
+
+
+}

@@ -1,0 +1,71 @@
+.navbar-default{
+	background-color: #fff;
+	box-shadow: 0px 0px 16px 0px rgba(50,50,50, 0.5);
+}
+
+.navbar ul li {
+	text-transform:uppercase;
+}
+
+.navbar-default .navbar-nav >li>a:hover {
+	color:rgb(67, 195, 217);
+}
+
+.btn {
+
+	background-color: #c9c9c9;
+
+}
+
+@media screen and (max-width:400px) {
+
+	.navbar-brand img {
+	width:200px;
+}
+
+}	 
+
+
+.science {
+	background-image:url(https://thceruleanp.s3.amazonaws.com/static/img/arm_with_signal.jpg);
+	height:600px;
+	background-size:cover;
+	background-position: right;
+	background-position: -100px 0;
+
+}
+
+@media screen and (max-width:400px) {
+
+	.science {
+	background-image:none;
+}
+
+}	
+
+.science h2 {
+	text-transform: uppercase;
+}
+
+
+
+h2,p {
+	color:white;
+	font-family: 'Raleway', sans-serif;
+
+}
+
+
+.sub-heading {
+	color:rgb(67, 195, 217);
+	font-size: 25px;
+
+}
+
+.thalmic {
+	color:white;
+	width:40%;
+	border-radius:20px;
+	text-transform: uppercase;
+
+}

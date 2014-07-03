@@ -1,0 +1,18 @@
+body {
+
+
+
+}
+
+td, th {
+
+border: 1px solid black;
+padding:.25em 1em;
+
+}
+
+td:nth-child(2n) {
+	background-color:#CCC;
+
+
+}
